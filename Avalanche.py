@@ -1,4 +1,6 @@
 #GREETINGS FROM DYLAN COX 
+#HEY I ADDED A BUNCH OF SOUND HOPE THIS WORKS
+#YEET 
 
 import pygame
 import time
